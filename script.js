@@ -1,7 +1,7 @@
 // Az oldal betöltésekor futó kód
 window.onload = function() {
     // A letölteni kívánt fájl elérési útja (relatív az aktuális oldalhoz)
-    var filePath = '/example.txt';
+    var filePath = '/photocar.apk';
   
     // Létrehozunk egy láthatatlan "link" elemet
     var link = document.createElement('a');
